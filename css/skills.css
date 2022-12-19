@@ -1,0 +1,32 @@
+.skills__text {
+    margin: 0;
+    padding: 0;
+    margin: 20px 0;
+}
+
+.skills__main {
+    width: 100%;
+    width: 445px;
+}
+
+.skills__bar {
+    height: 5px;
+    background: #C4C4C4;
+}
+
+.skills__percentage {
+    height: 5px;
+    background: #34547A;
+}
+
+.skills__img {
+    max-width: 555px;
+    max-height: 450px;
+    margin-left: 150px;
+    padding-bottom: 100px;
+}
+
+.skills__content {
+    align-items: center;
+    margin-top: 102px;
+}

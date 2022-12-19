@@ -1,0 +1,15 @@
+.public__content {
+    text-align: center;
+    max-width: 540px;
+    margin: 0 auto;
+    margin-top: 119px;
+}
+
+p {
+    margin-bottom: 50px;
+}
+
+h2 {
+    font-size: 32px;
+    margin: 0;
+}

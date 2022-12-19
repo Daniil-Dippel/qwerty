@@ -1,0 +1,40 @@
+.register {
+    background: #EEEFF1;
+}
+
+.register__content {
+    text-align: center;
+    max-width: 50%;
+    margin: 0 auto;
+    padding-top: 100px;
+}
+
+.register__form {
+    padding: 0;
+    margin: 0;
+    border: none;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.neme,
+.mail {
+    min-width: 40%;
+    height: 50px;
+    margin-bottom: 20px;
+    padding: 0 20px;
+}
+
+.message {
+    min-width: 93%;
+    height: 175px;
+    margin-bottom: 50px;
+    font-size: 14px;
+    font-family: "Roboto";
+    padding: 20px;
+}
+
+.register__input {
+    border: none;
+}

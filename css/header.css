@@ -1,0 +1,13 @@
+.header__list {
+    align-items: center;
+}
+
+.header__content {
+    justify-content: space-between;
+    padding-top: 57px;
+
+}
+
+li {
+    margin-left: 42px;
+}

@@ -1,0 +1,21 @@
+.footer{
+    background: #34547A;
+    
+}
+.footer__content{
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    align-items: center;
+}
+.footer__title{
+    color: #fff;
+    font-size: 13px;
+}
+h3{
+    color: #fff;
+}
+.footer__vk{
+    padding-left: 20px;
+    cursor: pointer;
+}
